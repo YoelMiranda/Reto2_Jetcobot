@@ -26,6 +26,7 @@
 | `matlab/` | Código MATLAB que valida la matriz T contra `control_joints` |
 | `docs/` | Evidencia del ítem 1, diagrama de secuencia, guía de ejecución y guía de la Raspberry |
 | `evidencia/` | Registro de rechazos con motivo (ítem 2) |
+| `datos/` | Traza de poses `carga.csv` usada en las corridas del ítem 3 |
 
 ## Estado de los ítems
 
