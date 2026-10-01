@@ -1,0 +1,4 @@
+hora,client_id,priority,motivo,joint_positions
+2026-09-29T16:30:52.118,prueba,1,"fuera de límites articulares: 1_Joint fuera de rango: 3.500 rad, límite [-2.93, 2.93]",3.5000 0.0000 0.0000 0.0000 0.0000 0.0000
+2026-09-29T16:30:54.095,prueba,1,fuera del workspace: z = -16 mm: el efector quedaría bajo la base,0.0000 2.3000 0.0000 0.0000 0.0000 0.0000
+2026-09-29T16:30:56.050,prueba,1,paso articular excesivo: 1.50 rad en 1_Joint (máximo 1.20 rad),1.5000 -0.4000 0.4000 0.0000 0.3000 0.0000

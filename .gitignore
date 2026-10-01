@@ -1,0 +1,12 @@
+# ROS 2 / colcon
+build/
+install/
+log/
+# Python
+__pycache__/
+*.pyc
+# Bags grabados (pesados): subir solo los CSV exportados
+*.db3
+*.mcap
+# Salidas locales
+item4_resultado.csv.bak
