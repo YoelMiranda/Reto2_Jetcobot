@@ -2,6 +2,8 @@
 
 **GRUPO 5**
 
+**Integrantes:** Yoel Junior Miranda Trinidad, Aaron Ernesto Cruzado Enciso, Joaquin Gabriel Rodriguez Gutierrez, Maximo Simon Contreras Salcedo.
+
 
 > **Autoría.** La estructura del repositorio (manifiestos, interfaces, `cliente.py`, nodo
 > publicador de `/arm/queue_state`, scripts de análisis) la entrega el curso y es idéntica para

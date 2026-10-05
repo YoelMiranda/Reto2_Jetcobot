@@ -1,0 +1,2 @@
+t,x_pedido,y_pedido,z_pedido,q1,q2,q3,q4,q5,q6,fk_x,fk_y,fk_z,fw_x,fw_y,fw_z,err_fk_vs_pedido,err_fw_vs_pedido,err_fk_vs_fw
+2026-10-01 18:11:26,108.0,-39.3,391.9,0.79,-31.9,29.09,-2.63,28.65,1.66,117.58,-36.04,391.08,113.0,-39.7,389.6,10.16,5.52,6.05
